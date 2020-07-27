@@ -66,3 +66,10 @@ for (var i = 0; i < names.length; i++) {
 }
 
 })(window);
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> a74c6c990f120ae95f5d4376557fde4231223461
